@@ -40,9 +40,23 @@ workload-mental-health-ols/
 ├── Project-Data/
 │   ├── survey_responses_auto_generated_data.csv          # Generated 150 survey responses
 │   └── survey_responses_real_data.csv   # original 55-record dataset
-├── presentation/
-│   └── workload_mental_health.pptx
-├── requirements.txt
+├── Project-materials/
+│   └── Presentation_Slide
+|   └── Project_Report
+|   └── Project Idea
+|   └── Report-Template
+├── Figures/
+|   └── activities_stress
+|   └── boxplot_gender
+|   └── boxplot_year
+|   └── correlation
+|   └── demographics
+|   └── distributions
+|   └── model1
+|   └── model2
+|   └── model3
+|   └── r2_comparison
+├── workload_mental_health_analysis.ipnyb
 └── README.md
 ```
 
@@ -121,6 +135,9 @@ jupyter notebook notebooks/
 | Name | Student ID |
 |---|---|
 | Belal Hossain | 2023-2-60-010 |
+| Github | [ht](https://github.com/itsme-belal/) |
+| Linkdin | [ht](https://linkdin.in/itsme-belal/) |
+
 ---
 
 ## License
