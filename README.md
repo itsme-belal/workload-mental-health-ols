@@ -138,10 +138,10 @@ jupyter notebook notebooks/
 
 ## Contact
 [Github](https://github.com/itsme-belal/) |
-|[Linkdin](https://linkdin.in/itsme-belal/) |
+[Linkdin](https://linkdin.in/itsme-belal/) 
 
 ---
 
 ## License
 
-Belal Hossain own it.
+Belal Hossain owns it.
