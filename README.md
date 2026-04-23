@@ -132,11 +132,13 @@ jupyter notebook notebooks/
 
 ## Authors
 
-| Name | Student ID |
+| Name | ID |
 |---|---|
 | Belal Hossain | 2023-2-60-010 |
-| Github | [ht](https://github.com/itsme-belal/) |
-| Linkdin | [ht](https://linkdin.in/itsme-belal/) |
+
+## Contact
+[Github](https://github.com/itsme-belal/) |
+|[Linkdin](https://linkdin.in/itsme-belal/) |
 
 ---
 
